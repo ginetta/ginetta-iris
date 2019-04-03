@@ -1,8 +1,8 @@
 # Ginetta Iris
 
+## A tool to visualize and generate Ginetta's colors
 
-<img src="public/iris.png" width="420" />
-
+<img src="public/iris-tool.gif" height="420" />
 
 ## Light and bright pink
 
@@ -16,8 +16,10 @@ To represent the «brave» dimension, the bright purple will be mainly used. Thi
 
 To represent the «active» dimension, bright green and light blue will be mainly used. This part of the color wheel is reminiscent of Ginetta’s «agile, growth, continuous» side.
 
+<img src="public/iris.png" height="420" />
 
-## Available Scripts
+
+# Available Scripts
 
 In the project directory, you can run:
 
